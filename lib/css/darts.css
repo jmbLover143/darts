@@ -1,0 +1,220 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 14, 2020, 2:37:22 PM
+    Author     : User
+*/
+
+body{
+    background-color: lightgray; 
+}
+.cover{
+    margin: 0 auto;
+    
+}
+.logo{
+    height:700px;
+    width: 700px;
+    float: left
+}
+.left{
+     height:600px;
+    width:580px;
+    float: left;
+     
+    margin-top:70px;
+    
+     
+}
+.icon{
+    width: 20px;
+    float:right;
+    
+}
+.sid{
+                border-radius: 6px;
+                height:645px;
+                width:207px;
+                border: 1px solid lightgray;
+                padding:0px;
+                float:left;
+                 
+            }
+.error{
+    color: red;
+}
+.title{
+    font-size: 70px;
+    font-family: algerian;
+    text-align: center;
+    color:goldenrod;
+}
+.user{
+    font-size: 20px;
+    text-align: center;
+}
+.login{
+     
+    width:490px;
+    text-align: center;
+    font-size: 25px;
+}
+.login-table{
+    text-align: center;
+    margin: 0 auto;
+}
+hr{
+    background-color: black;
+}
+
+.top{
+                border:1px solid lightgray;
+                height:370px;
+                width: 1150px;
+                margin:0 auto;
+                border-radius: 5px;
+                color:black
+            }
+            .content{
+                border:1px solid lightgray;
+                height:1770px;
+                width: 1150px;
+                margin:0 auto;
+                border-radius: 5px;
+                color:black
+            }
+            fieldset{
+                color:black
+            }
+            p{
+                
+            }
+            
+            
+            textarea{
+                height:100px;
+                width: 500px;
+                border: none;
+                
+            }
+            
+            .in{
+                height:30px;
+                width: 250px;
+                text-align: center;
+                text-transform: uppercase;
+            }
+            .profile{
+                float: right;
+                border: 1px solid black;
+                height: 180px;
+                width:180px;
+                margin-top: -265px;
+                border-radius:5px;
+                margin-right:100px;
+            }
+            .sided{
+                border-radius: 6px;
+                height:645px;
+                width:207px;
+                border: 1px solid lightgray;
+                padding:0px;
+                float:left;
+                
+            }
+            .container{
+                border: 1px solid lightgray;
+                width: 100%;
+                height: 645px;
+                float:right;
+                border-radius: 5px;
+            }
+             li:hover{
+                background-color: whitesmoke;
+            }
+            ul,li{
+             text-decoration: none;    
+            }
+            li{
+                height:30px;
+               
+            }
+            
+            input {
+                height:37px;
+                font-size: 17px;
+                text-transform: uppercase;
+                width:280px;
+                text-align: center;               
+            }
+            
+            table{
+                margin-left: 50px;
+            }
+         
+            .prof{
+                margin-left: 500px;
+            }
+            .dated{
+                float:right;
+            }
+            .single{
+                border:1px solid whitesmoke;
+                background-color: gray;
+            }.single1{
+                border:1px solid whitesmoke;
+            }
+            .records{
+                overflow: scroll;
+                height:500px;
+                width:100%;
+                border:1px solid whitesmoke;
+             
+            }
+            
+            
+            .update{
+                height:500px;
+                width: 500px;
+                border:1px solid whitesmoke;
+            }
+            .scorer{
+                height: 700px;
+                width:1000px;
+                border: 1px solid whitesmoke;
+                background-color: pink;
+            }
+            .sheets{
+                 height:40px;
+                width:900px;
+                border: 1px solid black;
+                 text-align: center;
+                
+            }
+            .sheets2{
+                 height:40px;
+                width:100px;
+                border: 1px solid black;
+                 text-align: center;
+                
+            }
+            .sheets3{
+                 height:40px;
+                width:200px;
+                border: 1px solid black;
+                 text-align: center;
+                
+            }
+            
+             
+            
+            
+            
+            
+            
+            
+            
+             

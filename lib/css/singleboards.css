@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 18, 2020, 1:25:42 PM
+    Author     : User
+*/
+
+.draw{
+  height:auto;
+  width:1350px;  
+  border:1px solid black;
+  margin:0 auto;
+  border-radius: 5px;
+ }
+ .draw2{
+  height:auto;
+  width:100%;  
+  border:1px solid black;
+  margin:0 auto;
+  border-radius: 5px;
+ }
+input{
+    height:10px;
+}
